@@ -1,11 +1,11 @@
 # site settings
 title: jwrg's homepage and blog
-subtitle: 
+subtitle: subtitle
 email: jwrg@uvic.ca
-description: 
+description: description goes here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jwrg.github.io # the base hostname & protocol for your site
-author:
+author: jwrg
 street_address: 
 city: 
 state: 
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings
 500px_url:
