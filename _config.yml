@@ -1,8 +1,8 @@
 # site settings
-title: jwrg's homepage and blog
-subtitle: subtitle
+title: Fons Minervae
+subtitle: jwrg's homepage and blog
 email: jwrg@uvic.ca
-description: description goes here
+description: Jim Galloway
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jwrg.github.io # the base hostname & protocol for your site
 author: jwrg
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 6
 
 # social settings
 500px_url:
