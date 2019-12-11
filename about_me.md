@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: 'Too much information regarding jwrg'
-image: assets/images/about_blur.jpg
+image: assets/images/canyon.jpg
 nav-menu: true
 ---
 
@@ -26,7 +26,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/beachdog.jpg" alt="" data-position="center center" />
+			<img src="assets/images/stream.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
