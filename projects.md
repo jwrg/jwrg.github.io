@@ -4,7 +4,6 @@ title: Projects
 description: "Some of jwrg's projects"
 image: assets/images/projects.jpg
 nav-menu: true
-show_tile: true
 ---
 
 <!-- Main -->
@@ -33,7 +32,7 @@ burner.
     </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-    <span class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/320px-LaTeX_logo.svg.png" alt="the LaTeX logo" /></span>
+    <span class="image fit"><img src="assets/images/latex.png" alt="the LaTeX logo" /></span>
 		<h3>Capiar</h3>
 		<p><a href="https://github.com/jwrg/capiar">Capiar</a> is a 
     collection of LaTeX classes and macros which I have written 
@@ -41,7 +40,8 @@ burner.
     are some illuminating examples which make use of said 
     classes and macros.  Examples include cheat sheets, school 
     assignments, a technical resume and cover letter, and a 
-    Latin-English dictionary.
+    Latin-English dictionary.  I am aware of the need for a
+    project logo; the LaTeX logo is filling in for now.
     </p>
 	</div>
 	<!-- Break -->
