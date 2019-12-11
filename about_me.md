@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: 'Too much information regarding jwrg'
-image: assets/images/canyon.jpg
+image: assets/images/about_blur.jpg
 nav-menu: true
 ---
 
@@ -36,7 +36,7 @@ nav-menu: true
 				<p>I have expertise in a number of research fields, and expect to
         publish original research in the future.  Fields in which I am well
         read and have significant expertise include:
-        <ul>
+        <ul class="alt">
           <li>Cyber risk and cyber law</li>
           <li>Software design, development, and architecture</li>
           <li>Anonymity and the dark web</li>
