@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Good Reads: A Declassified CIA Article on the Assassination of Reinhard Heidrich"
+title: "A Declassified CIA Article on the Assassination of Reinhard Heidrich"
+date: 2019-12-09 18:17:45 -0800
+author: jwrg
 categories: [blog, goodreads]
 tags: [WWII, Czechoslovakia, assassination]
 ---
-
-# Good Reads: A Declassified CIA Article on the Assassination of Reinhard Heydrich #
 
 Declassified in 1993, and written in 1960, this 
 [article][1], taken from CIA periodical 

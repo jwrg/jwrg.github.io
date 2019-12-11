@@ -8,4 +8,7 @@ author: jwrg
 show_tile: false
 ---
 
-Thanks for your visit to my personal webpage and blog.  Please poke around and check back often.
+Thanks for your visit to my personal webpage and blog, 
+*Fons Minervae*.  The title roughly translates to "the 
+font of wisdom," which I use here tongue-in-cheek.  Please 
+poke around and check back often.

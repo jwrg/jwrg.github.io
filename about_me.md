@@ -2,8 +2,10 @@
 title: About Me
 layout: landing
 description: 'Too much information regarding jwrg'
+author: jwrg
 image: assets/images/about_blur.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

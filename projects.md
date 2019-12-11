@@ -4,6 +4,7 @@ layout: page
 description: "jwrg's projects"
 image: assets/images/projects.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
