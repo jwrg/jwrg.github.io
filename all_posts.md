@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Blog
+landing-title: "jwrg's Blog"
 nav-menu: true
 description: null
-image: null
-author: null
-show_tile: false
+image: assets/images/canyon.jpg
+author: jwrg
+show_tile: true
 ---
 
-<h1>All posts</h1>
+<h1>All blog posts</h1>
