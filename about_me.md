@@ -53,7 +53,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image">
-			<img src="assets/images/projects.jpg" alt="" data-position="top center" />
+			<img src="assets/images/projects_tall.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
