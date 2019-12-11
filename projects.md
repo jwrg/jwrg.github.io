@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Projects
-description: "Some of jwrg's projects"
+layout: page
+description: "jwrg's projects"
 image: assets/images/projects.jpg
 nav-menu: true
 ---
@@ -129,7 +129,3 @@ Engineering student at the University of Victoria.
     scrapped owing to resource constraints.
     </p>
 	</div>
-</div>
-</section>
-
-</div>

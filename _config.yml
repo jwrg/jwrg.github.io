@@ -7,10 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jwrg.github.io # the base hostname & protocol for your site
 author: jwrg
 street_address: 
-city: 
-state: 
+city: Vancouver
+state: BC
 zip_code: 
-country: 
+country: Canada
 phone: 
 
 # homepage tiles
