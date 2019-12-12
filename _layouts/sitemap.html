@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    <!-- Main -->
+    <div id="main" class="alt">
+      <h1>{{ page.title }}</h1>
+
+      <!-- Static Pages -->
+      <section id="one">
+        <div class="inner">
+          <ul>
+          {% for static in site.pages %}
+            {% if static.title != 404 and static.title != "" %}
+            <li>
+              <em>{{ static.date }}</em>
+              <a href="{{ static.url }}" alt="{{ static.name }}">{{ static.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+      </section>
+
+      <!-- Categories and Posts -->
+      <!-- Statistics  -->
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
