@@ -12,7 +12,7 @@ state: BC
 zip_code: 
 country: Canada
 phone: 
-timezone: Canada/Vancouver
+timezone: America/Vancouver
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
